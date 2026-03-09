@@ -1,0 +1,92 @@
+[
+    {
+        "id": "GAME-001",
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "releaseYear": 2015,
+        "developer": "CD Projekt Red",
+        "multiplayer": false,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/TheWitcher.jpg"
+    },
+    {
+        "id": "GAME-002",
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "releaseYear": 2011,
+        "developer": "Mojang Studios",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/minecraft.jpg"
+    },
+    {
+        "id": "GAME-003",
+        "title": "Grand Theft Auto V",
+        "genre": "Action",
+        "releaseYear": 2013,
+        "developer": "Rockstar Games",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/GTA.jpg"
+    },
+    {
+        "id": "GAME-004",
+        "title": "Elden Ring",
+        "genre": "Action RPG",
+        "releaseYear": 2022,
+        "developer": "FromSoftware",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/EldenRing.jpg"
+    },
+    {
+        "id": "GAME-005",
+        "title": "Fortnite",
+        "genre": "Battle Royale",
+        "releaseYear": 2017,
+        "developer": "Epic Games",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/Fortnite.jpg"
+    },
+    {
+        "id": "GAME-006",
+        "title": "Red Dead Redemption 2",
+        "genre": "Adventure",
+        "releaseYear": 2018,
+        "developer": "Rockstar Games",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/RedDead.jpg"
+    },
+    {
+        "id": "GAME-007",
+        "title": "League of Legends",
+        "genre": "MOBA",
+        "releaseYear": 2009,
+        "developer": "Riot Games",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/LOL.jpg"
+    },
+    {
+        "id": "GAME-008",
+        "title": "God of War Ragnarök",
+        "genre": "Action",
+        "releaseYear": 2022,
+        "developer": "Santa Monica Studio",
+        "multiplayer": false,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/GodOfWar.jpg"
+    },
+    {
+        "id": "GAME-009",
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "releaseYear": 2020,
+        "developer": "CD Projekt Red",
+        "multiplayer": false,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/CyberPunk.jpg"
+    },
+    {
+        "id": "GAME-010",
+        "title": "Valorant",
+        "genre": "Shooter",
+        "releaseYear": 2020,
+        "developer": "Riot Games",
+        "multiplayer": true,
+        "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/Valorant.jpg"
+    }
+]

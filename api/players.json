@@ -1,0 +1,206 @@
+[
+    {
+        "id": "PLY-001",
+        "username": "ShadowWolf",
+        "bio": "Competitive gamer who enjoys difficult RPGs and immersive story-driven games.",
+        "age": 24,
+        "isOnline": true,
+        "joinDate": "2020-06-15",
+        "platform": "PC",
+        "achievements": [
+            "Platinum Trophy Hunter",
+            "Speedrunner"
+        ],
+        "favoriteGame": {
+            "id": "GAME-004",
+            "title": "Elden Ring",
+            "genre": "Action RPG",
+            "developer": "FromSoftware",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/EldenRing.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-002",
+        "username": "PixelQueen",
+        "bio": "Creative builder who loves sandbox games and casual multiplayer sessions.",
+        "age": 21,
+        "isOnline": false,
+        "joinDate": "2019-03-10",
+        "platform": "PC",
+        "achievements": [
+            "Master Builder",
+            "Redstone Engineer"
+        ],
+        "favoriteGame": {
+            "id": "GAME-002",
+            "title": "Minecraft",
+            "genre": "Sandbox",
+            "developer": "Mojang Studios",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/minecraft.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-003",
+        "username": "NightRider",
+        "bio": "Open-world enthusiast who enjoys cinematic storytelling.",
+        "age": 27,
+        "isOnline": true,
+        "joinDate": "2018-11-02",
+        "platform": "Console",
+        "achievements": [
+            "100% Completionist"
+        ],
+        "favoriteGame": {
+            "id": "GAME-006",
+            "title": "Red Dead Redemption 2",
+            "genre": "Adventure",
+            "developer": "Rockstar Games",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/RedDead.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-004",
+        "username": "NeoMatrix",
+        "bio": "Sci-fi fan fascinated by futuristic RPG worlds.",
+        "age": 23,
+        "isOnline": false,
+        "joinDate": "2021-01-19",
+        "platform": "PC",
+        "achievements": [
+            "All Endings Unlocked"
+        ],
+        "favoriteGame": {
+            "id": "GAME-009",
+            "title": "Cyberpunk 2077",
+            "genre": "RPG",
+            "developer": "CD Projekt Red",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/CyberPunk.jpg",
+            "multiplayer": false
+        }
+    },
+    {
+        "id": "PLY-005",
+        "username": "StormAce",
+        "bio": "Fast-paced competitive shooter player.",
+        "age": 20,
+        "isOnline": true,
+        "joinDate": "2022-09-05",
+        "platform": "PC",
+        "achievements": [
+            "Diamond Rank",
+            "Clutch Master"
+        ],
+        "favoriteGame": {
+            "id": "GAME-010",
+            "title": "Valorant",
+            "genre": "Shooter",
+            "developer": "Riot Games",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/Valorant.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-006",
+        "username": "BattleKing",
+        "bio": "Battle royale addict who plays daily with friends.",
+        "age": 19,
+        "isOnline": true,
+        "joinDate": "2021-07-23",
+        "platform": "Console",
+        "achievements": [
+            "Victory Royale x100"
+        ],
+        "favoriteGame": {
+            "id": "GAME-005",
+            "title": "Fortnite",
+            "genre": "Battle Royale",
+            "developer": "Epic Games",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/Fortnite.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-007",
+        "username": "LoreSeeker",
+        "bio": "Enjoys deep lore, quests, and fantasy universes.",
+        "age": 26,
+        "isOnline": false,
+        "joinDate": "2017-05-14",
+        "platform": "PC",
+        "achievements": [
+            "Lore Master",
+            "All DLC Completed"
+        ],
+        "favoriteGame": {
+            "id": "GAME-001",
+            "title": "The Witcher 3: Wild Hunt",
+            "genre": "RPG",
+            "developer": "CD Projekt Red",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/TheWitcher.jpg",
+            "multiplayer": false
+        }
+    },
+    {
+        "id": "PLY-008",
+        "username": "GodSlayer",
+        "bio": "Action-focused player who enjoys epic boss fights.",
+        "age": 25,
+        "isOnline": true,
+        "joinDate": "2022-11-10",
+        "platform": "Console",
+        "achievements": [
+            "God Mode Unlocked"
+        ],
+        "favoriteGame": {
+            "id": "GAME-008",
+            "title": "God of War Ragnarök",
+            "genre": "Action",
+            "developer": "Santa Monica Studio",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/GodOfWar.jpg",
+            "multiplayer": false
+        }
+    },
+    {
+        "id": "PLY-009",
+        "username": "StreetBoss",
+        "bio": "Loves chaos, freedom, and open-world gameplay.",
+        "age": 29,
+        "isOnline": false,
+        "joinDate": "2016-04-01",
+        "platform": "Console",
+        "achievements": [
+            "Criminal Mastermind"
+        ],
+        "favoriteGame": {
+            "id": "GAME-003",
+            "title": "Grand Theft Auto V",
+            "genre": "Action",
+            "developer": "Rockstar Games",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/GTA.jpg",
+            "multiplayer": true
+        }
+    },
+    {
+        "id": "PLY-010",
+        "username": "SummonerX",
+        "bio": "Team-based strategist who enjoys competitive MOBAs.",
+        "age": 22,
+        "isOnline": true,
+        "joinDate": "2019-08-30",
+        "platform": "PC",
+        "achievements": [
+            "Challenger Rank"
+        ],
+        "favoriteGame": {
+            "id": "GAME-007",
+            "title": "League of Legends",
+            "genre": "MOBA",
+            "developer": "Riot Games",
+            "coverImageUrl": "https://raw.githubusercontent.com/Khqled-syr/players-games-api/refs/heads/main/images/games/LOL.jpg",
+            "multiplayer": true
+        }
+    }
+]
